@@ -65,6 +65,7 @@ CCTV3,http://ott.mobaibox.com/TVOD/3/224/3221228392/index.m3u8
 CCTV3,http://ott.mobaibox.com/TVOD/3/224/3221228499/index.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221225534/index.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221227378/index.m3u8
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221227489/index.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221227549/index.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221227658/index.m3u8
@@ -562,5 +563,4 @@ Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 KPOP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 France24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 FoxNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 ABC新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
