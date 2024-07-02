@@ -268,7 +268,6 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 湖南卫视,http://ott.mobaibox.com/TVOD/3/224/3221227735/index.m3u8
 湖南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228227/index.m3u8
 湖南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228413/index.m3u8
-江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227208/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227255/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227529/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227552/index.m3u8
@@ -310,6 +309,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 浙江卫视,http://ott.mobaibox.com/TVOD/3/224/3221228147/index.m3u8
 浙江卫视,http://ott.mobaibox.com/TVOD/3/224/3221228204/index.m3u8
 浙江卫视,http://ott.mobaibox.com/TVOD/3/224/3221228309/index.m3u8
+东方卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227208/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227486/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227511/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227597/index.m3u8
