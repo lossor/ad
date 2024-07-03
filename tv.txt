@@ -31,6 +31,7 @@ CCTV1,http://ott.mobaibox.com/TVOD/3/224/3221228149/index.m3u8
 CCTV1,http://ott.mobaibox.com/TVOD/3/224/3221228213/index.m3u8
 CCTV1,http://ott.mobaibox.com/TVOD/3/224/3221228287/index.m3u8
 CCTV1,http://ott.mobaibox.com/TVOD/3/224/3221228581/index.m3u8
+CCTV1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV2,http://ott.js.chinamobile.com/TVOD/3/224/3221226993/index.m3u8
 CCTV2,http://ott.js.chinamobile.com/TVOD/3/224/3221227207/index.m3u8
 CCTV2,http://ott.js.chinamobile.com/TVOD/3/224/3221227543/index.m3u8
@@ -45,6 +46,7 @@ CCTV2,http://ott.mobaibox.com/TVOD/3/224/3221227696/index.m3u8
 CCTV2,http://ott.mobaibox.com/TVOD/3/224/3221227708/index.m3u8
 CCTV2,http://ott.mobaibox.com/TVOD/3/224/3221228094/index.m3u8
 CCTV2,http://ott.mobaibox.com/TVOD/3/224/3221228300/index.m3u8
+CCTV2,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
 CCTV3,http://ott.js.chinamobile.com/TVOD/3/224/3221225588/index.m3u8
 CCTV3,http://ott.js.chinamobile.com/TVOD/3/224/3221227295/index.m3u8
 CCTV3,http://ott.js.chinamobile.com/TVOD/3/224/3221227546/index.m3u8
@@ -63,6 +65,7 @@ CCTV3,http://ott.mobaibox.com/TVOD/3/224/3221228188/index.m3u8
 CCTV3,http://ott.mobaibox.com/TVOD/3/224/3221228237/index.m3u8
 CCTV3,http://ott.mobaibox.com/TVOD/3/224/3221228392/index.m3u8
 CCTV3,http://ott.mobaibox.com/TVOD/3/224/3221228499/index.m3u8
+CCTV3,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/2300.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221225534/index.m3u8
 CCTV4,http://ott.js.chinamobile.com/TVOD/3/224/3221227378/index.m3u8
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -82,6 +85,7 @@ CCTV4,http://ott.mobaibox.com/TVOD/3/224/3221227683/index.m3u8
 CCTV4,http://ott.mobaibox.com/TVOD/3/224/3221228091/index.m3u8
 CCTV4,http://ott.mobaibox.com/TVOD/3/224/3221228156/index.m3u8
 CCTV4,http://ott.mobaibox.com/TVOD/3/224/3221228307/index.m3u8
+CCTV4,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
 CCTV5,http://ott.js.chinamobile.com/TVOD/3/224/3221227166/index.m3u8
 CCTV5,http://ott.js.chinamobile.com/TVOD/3/224/3221227298/index.m3u8
 CCTV5,http://ott.js.chinamobile.com/TVOD/3/224/3221227537/index.m3u8
@@ -106,6 +110,8 @@ CCTV5,http://ott.mobaibox.com/TVOD/3/224/3221228173/index.m3u8
 CCTV5,http://ott.mobaibox.com/TVOD/3/224/3221228179/index.m3u8
 CCTV5,http://ott.mobaibox.com/TVOD/3/224/3221228395/index.m3u8
 CCTV5,http://ott.mobaibox.com/TVOD/3/224/3221228502/index.m3u8
+CCTV5,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV5,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/2300.m3u8
 CCTV6,http://ott.js.chinamobile.com/TVOD/3/224/3221225548/index.m3u8
 CCTV6,http://ott.js.chinamobile.com/TVOD/3/224/3221227209/index.m3u8
 CCTV6,http://ott.js.chinamobile.com/TVOD/3/224/3221227301/index.m3u8
@@ -126,6 +132,8 @@ CCTV6,http://ott.mobaibox.com/TVOD/3/224/3221228185/index.m3u8
 CCTV6,http://ott.mobaibox.com/TVOD/3/224/3221228196/index.m3u8
 CCTV6,http://ott.mobaibox.com/TVOD/3/224/3221228280/index.m3u8
 CCTV6,http://ott.mobaibox.com/TVOD/3/224/3221228516/index.m3u8
+CCTV6,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+CCTV6,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41141/2300.m3u8
 CCTV7,http://ott.js.chinamobile.com/TVOD/3/224/3221225546/index.m3u8
 CCTV7,http://ott.js.chinamobile.com/TVOD/3/224/3221227314/index.m3u8
 CCTV7,http://ott.js.chinamobile.com/TVOD/3/224/3221227626/index.m3u8
@@ -154,6 +162,8 @@ CCTV8,http://ott.mobaibox.com/TVOD/3/224/3221228079/index.m3u8
 CCTV8,http://ott.mobaibox.com/TVOD/3/224/3221228194/index.m3u8
 CCTV8,http://ott.mobaibox.com/TVOD/3/224/3221228398/index.m3u8
 CCTV8,http://ott.mobaibox.com/TVOD/3/224/3221228578/index.m3u8
+CCTV8,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+CCTV8,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41142/2300.m3u8
 CCTV9,http://ott.js.chinamobile.com/TVOD/3/224/3221225532/index.m3u8
 CCTV9,http://ott.js.chinamobile.com/TVOD/3/224/3221227614/index.m3u8
 CCTV9,http://ott.js.chinamobile.com/TVOD/3/224/3221227659/index.m3u8
@@ -176,6 +186,7 @@ CCTV10,http://ott.mobaibox.com/TVOD/3/224/3221227620/index.m3u8
 CCTV10,http://ott.mobaibox.com/TVOD/3/224/3221227717/index.m3u8
 CCTV10,http://ott.mobaibox.com/TVOD/3/224/3221228654/index.m3u8
 CCTV10,http://ott.mobaibox.com/TVOD/3/224/3221228761/index.m3u8
+CCTV10,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
 CCTV11,http://ott.js.chinamobile.com/TVOD/3/224/3221227384/index.m3u8
 CCTV11,http://ott.js.chinamobile.com/TVOD/3/224/3221227524/index.m3u8
 CCTV11,http://ott.js.chinamobile.com/TVOD/3/224/3221227720/index.m3u8
@@ -194,6 +205,7 @@ CCTV12,http://ott.mobaibox.com/TVOD/3/224/3221227655/index.m3u8
 CCTV12,http://ott.mobaibox.com/TVOD/3/224/3221228551/index.m3u8
 CCTV12,http://ott.mobaibox.com/TVOD/3/224/3221228646/index.m3u8
 CCTV12,http://ott.mobaibox.com/TVOD/3/224/3221228657/index.m3u8
+CCTV12,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
 CCTV13,http://ott.js.chinamobile.com/TVOD/3/224/3221225560/index.m3u8
 CCTV13,http://ott.js.chinamobile.com/TVOD/3/224/3221228224/index.m3u8
 CCTV13,http://ott.js.chinamobile.com/TVOD/3/224/3221228324/index.m3u8
@@ -204,6 +216,7 @@ CCTV13,http://ott.mobaibox.com/TVOD/3/224/3221228224/index.m3u8
 CCTV13,http://ott.mobaibox.com/TVOD/3/224/3221228324/index.m3u8
 CCTV13,http://ott.mobaibox.com/TVOD/3/224/3221228649/index.m3u8
 CCTV13,http://ott.mobaibox.com/TVOD/3/224/3221228660/index.m3u8
+CCTV13,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 CCTV14,http://ott.js.chinamobile.com/TVOD/3/224/3221227201/index.m3u8
 CCTV14,http://ott.js.chinamobile.com/TVOD/3/224/3221227656/index.m3u8
 CCTV14,http://ott.js.chinamobile.com/TVOD/3/224/3221227693/index.m3u8
@@ -214,12 +227,14 @@ CCTV15,http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
 CCTV15,http://ott.js.chinamobile.com/TVOD/3/224/3221227723/index.m3u8
 CCTV15,http://ott.mobaibox.com/TVOD/3/224/3221227538/index.m3u8
 CCTV15,http://ott.mobaibox.com/TVOD/3/224/3221227723/index.m3u8
+CCTV15,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
 CCTV16,http://ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 CCTV16,http://ott.js.chinamobile.com/TVOD/3/224/3221228314/index.m3u8
 CCTV16,http://ott.js.chinamobile.com/TVOD/3/224/3221228320/index.m3u8
 CCTV16,http://ott.mobaibox.com/TVOD/3/224/3221228168/index.m3u8
 CCTV16,http://ott.mobaibox.com/TVOD/3/224/3221228314/index.m3u8
 CCTV16,http://ott.mobaibox.com/TVOD/3/224/3221228320/index.m3u8
+CCTV16,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
 CCTV17,http://ott.js.chinamobile.com/TVOD/3/224/3221227578/index.m3u8
 CCTV17,http://ott.js.chinamobile.com/TVOD/3/224/3221227589/index.m3u8
 CCTV17,http://ott.js.chinamobile.com/TVOD/3/224/3221227592/index.m3u8
@@ -228,6 +243,7 @@ CCTV17,http://ott.mobaibox.com/TVOD/3/224/3221227578/index.m3u8
 CCTV17,http://ott.mobaibox.com/TVOD/3/224/3221227589/index.m3u8
 CCTV17,http://ott.mobaibox.com/TVOD/3/224/3221227592/index.m3u8
 CCTV17,http://ott.mobaibox.com/TVOD/3/224/3221227726/index.m3u8
+CCTV17,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221225604/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221227381/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221227480/index.m3u8
@@ -239,6 +255,7 @@ CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221228076/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221228176/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221228277/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/TVOD/3/224/3221228492/index.m3u8
+CCTV5+,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/3/224/3221225604/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/3/224/3221227381/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/3/224/3221227480/index.m3u8
@@ -252,6 +269,7 @@ CCTV5+,http://ott.mobaibox.com/TVOD/3/224/3221228277/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/3/224/3221228492/index.m3u8
 CCTV台球,http://ott.js.chinamobile.com/TVOD/3/224/3221228683/index.m3u8
 CCTV台球,http://ott.mobaibox.com/TVOD/3/224/3221228683/index.m3u8
+CCTV台球,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
 CCTV足球,http://ott.js.chinamobile.com/TVOD/3/224/3221228668/index.m3u8
 CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 卫视频道,#genre#
@@ -269,6 +287,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 湖南卫视,http://ott.mobaibox.com/TVOD/3/224/3221227735/index.m3u8
 湖南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228227/index.m3u8
 湖南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228413/index.m3u8
+湖南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227255/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227529/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227552/index.m3u8
@@ -327,6 +346,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 东方卫视,http://ott.mobaibox.com/TVOD/3/224/3221228150/index.m3u8
 东方卫视,http://ott.mobaibox.com/TVOD/3/224/3221228425/index.m3u8
 东方卫视,http://ott.mobaibox.com/TVOD/3/224/3221228504/index.m3u8
+东方卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
 安徽卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221225634/index.m3u8
 安徽卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227498/index.m3u8
 安徽卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227558/index.m3u8
@@ -343,6 +363,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 安徽卫视,http://ott.mobaibox.com/TVOD/3/224/3221228153/index.m3u8
 安徽卫视,http://ott.mobaibox.com/TVOD/3/224/3221228327/index.m3u8
 安徽卫视,http://ott.mobaibox.com/TVOD/3/224/3221228645/index.m3u8
+安徽卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227246/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227508/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227652/index.m3u8
@@ -353,6 +374,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 北京卫视,http://ott.mobaibox.com/TVOD/3/224/3221227652/index.m3u8
 北京卫视,http://ott.mobaibox.com/TVOD/3/224/3221227694/index.m3u8
 北京卫视,http://ott.mobaibox.com/TVOD/3/224/3221228410/index.m3u8
+北京卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 东南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227553/index.m3u8
 东南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227670/index.m3u8
 东南卫视,http://ott.mobaibox.com/TVOD/3/224/3221227553/index.m3u8
@@ -361,6 +383,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 甘肃卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228166/index.m3u8
 甘肃卫视,http://ott.mobaibox.com/TVOD/3/224/3221227568/index.m3u8
 甘肃卫视,http://ott.mobaibox.com/TVOD/3/224/3221228166/index.m3u8
+甘肃卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225561/index.m3u8
 广东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227249/index.m3u8
 广东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227476/index.m3u8
 广东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227591/index.m3u8
@@ -379,10 +402,13 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 广东卫视,http://ott.mobaibox.com/TVOD/3/224/3221228312/index.m3u8
 广东卫视,http://ott.mobaibox.com/TVOD/3/224/3221228326/index.m3u8
 广东卫视,http://ott.mobaibox.com/TVOD/3/224/3221228566/index.m3u8
+广东卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
 广西卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228183/index.m3u8
 广西卫视,http://ott.mobaibox.com/TVOD/3/224/3221228183/index.m3u8
+广西卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225557/index.m3u8
 贵州卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227551/index.m3u8
 贵州卫视,http://ott.mobaibox.com/TVOD/3/224/3221227551/index.m3u8
+贵州卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
 海南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228101/index.m3u8
 海南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228101/index.m3u8
 河北卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227545/index.m3u8
@@ -391,10 +417,12 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 河北卫视,http://ott.mobaibox.com/TVOD/3/224/3221227545/index.m3u8
 河北卫视,http://ott.mobaibox.com/TVOD/3/224/3221228106/index.m3u8
 河北卫视,http://ott.mobaibox.com/TVOD/3/224/3221228752/index.m3u8
+河北卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3u8
 河南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227521/index.m3u8
 河南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228221/index.m3u8
 河南卫视,http://ott.mobaibox.com/TVOD/3/224/3221227521/index.m3u8
 河南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228221/index.m3u8
+河南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
 湖北卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227211/index.m3u8
 湖北卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227377/index.m3u8
 湖北卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227479/index.m3u8
@@ -411,6 +439,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 湖北卫视,http://ott.mobaibox.com/TVOD/3/224/3221228159/index.m3u8
 吉林卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228028/index.m3u8
 吉林卫视,http://ott.mobaibox.com/TVOD/3/224/3221228028/index.m3u8
+吉林卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
 江西卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221225536/index.m3u8
 江西卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227738/index.m3u8
 江西卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228109/index.m3u8
@@ -419,6 +448,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 江西卫视,http://ott.mobaibox.com/TVOD/3/224/3221227738/index.m3u8
 江西卫视,http://ott.mobaibox.com/TVOD/3/224/3221228109/index.m3u8
 江西卫视,http://ott.mobaibox.com/TVOD/3/224/3221228749/index.m3u8
+江西卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
 辽宁卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227380/index.m3u8
 辽宁卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227485/index.m3u8
 辽宁卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227676/index.m3u8
@@ -431,8 +461,10 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 辽宁卫视,http://ott.mobaibox.com/TVOD/3/224/3221227700/index.m3u8
 辽宁卫视,http://ott.mobaibox.com/TVOD/3/224/3221228162/index.m3u8
 辽宁卫视,http://ott.mobaibox.com/TVOD/3/224/3221228310/index.m3u8
+辽宁卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
 青海卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227554/index.m3u8
 青海卫视,http://ott.mobaibox.com/TVOD/3/224/3221227554/index.m3u8
+青海卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225528/index.m3u8
 山东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227258/index.m3u8
 山东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227310/index.m3u8
 山东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227517/index.m3u8
@@ -465,12 +497,14 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 深圳卫视,http://ott.mobaibox.com/TVOD/3/224/3221227695/index.m3u8
 深圳卫视,http://ott.mobaibox.com/TVOD/3/224/3221228236/index.m3u8
 深圳卫视,http://ott.mobaibox.com/TVOD/3/224/3221228569/index.m3u8
+深圳卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
 四川卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227556/index.m3u8
 四川卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228171/index.m3u8
 四川卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228648/index.m3u8
 四川卫视,http://ott.mobaibox.com/TVOD/3/224/3221227556/index.m3u8
 四川卫视,http://ott.mobaibox.com/TVOD/3/224/3221228171/index.m3u8
 四川卫视,http://ott.mobaibox.com/TVOD/3/224/3221228648/index.m3u8
+四川卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
 天津卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227212/index.m3u8
 天津卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227382/index.m3u8
 天津卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227488/index.m3u8
@@ -487,6 +521,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 天津卫视,http://ott.mobaibox.com/TVOD/3/224/3221227756/index.m3u8
 天津卫视,http://ott.mobaibox.com/TVOD/3/224/3221228239/index.m3u8
 天津卫视,http://ott.mobaibox.com/TVOD/3/224/3221228416/index.m3u8
+天津卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
 未知卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228317/index.m3u8
 未知卫视,http://ott.mobaibox.com/TVOD/3/224/3221228317/index.m3u8
 新疆卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228290/index.m3u8
@@ -495,6 +530,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 云南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228169/index.m3u8
 云南卫视,http://ott.mobaibox.com/TVOD/3/224/3221227571/index.m3u8
 云南卫视,http://ott.mobaibox.com/TVOD/3/224/3221228169/index.m3u8
+云南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 重庆卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227550/index.m3u8
 重庆卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227632/index.m3u8
 重庆卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227729/index.m3u8
@@ -503,21 +539,29 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 重庆卫视,http://ott.mobaibox.com/TVOD/3/224/3221227632/index.m3u8
 重庆卫视,http://ott.mobaibox.com/TVOD/3/224/3221227729/index.m3u8
 重庆卫视,http://ott.mobaibox.com/TVOD/3/224/3221228651/index.m3u8
+重庆卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+陕西卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 本地频道,#genre#
 南京综合,http://ott.mobaibox.com/TVOD/3/224/3221227213/index.m3u8
 南京综合,http://ott.js.chinamobile.com/TVOD/3/224/3221227213/index.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京娱乐,http://ott.mobaibox.com/TVOD/3/224/3221227722/index.m3u8
 南京娱乐,http://ott.js.chinamobile.com/TVOD/3/224/3221227722/index.m3u8
 南京影视,http://ott.mobaibox.com/TVOD/3/224/3221227719/index.m3u8
 南京影视,http://ott.js.chinamobile.com/TVOD/3/224/3221227719/index.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 南京信息,http://ott.mobaibox.com/TVOD/3/224/3221227730/index.m3u8
 南京信息,http://ott.js.chinamobile.com/TVOD/3/224/3221227730/index.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京十八,http://ott.mobaibox.com/TVOD/3/224/3221227178/index.m3u8
 南京十八,http://ott.js.chinamobile.com/TVOD/3/224/3221227178/index.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 南京少儿,http://ott.mobaibox.com/TVOD/3/224/3221227733/index.m3u8
 南京少儿,http://ott.js.chinamobile.com/TVOD/3/224/3221227733/index.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京教科,http://ott.mobaibox.com/TVOD/3/224/3221227194/index.m3u8
 南京教科,http://ott.js.chinamobile.com/TVOD/3/224/3221227194/index.m3u8
+南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 江苏综艺,http://ott.mobaibox.com/TVOD/3/224/3221228731/index.m3u8
 江苏综艺,http://ott.js.chinamobile.com/TVOD/3/224/3221228731/index.m3u8
 江苏影视,http://ott.mobaibox.com/TVOD/3/224/3221228728/index.m3u8
@@ -533,10 +577,16 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
 凤凰资讯,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720001580/ei/zM-EZoyxFtC0kucP6qutqAg/ip/172.177.25.14/id/XqstiwkAcDU.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr10---sn-4h.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAfWif3lLUWkU3cHGZvQh3EcVyMoE7tkOUTyMN5PYqe76N6tjyWnhXzlSzJ8/vprv/1/playlist_type/DVR/mh/H5/mm/44/mn/sn-4h/ms/lva/mv/u/mvi/10/pl/21/dover/11/pacing/0/keepalive/yes/mt/1719978819/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgCPC7PAxC_eOydkVtj7BtWZ443LH8hC7cW1wjL1M_zqsCIQDpTLK_rL2DRTWF0qJJ6CAKTNwRVlGcydZQCnm5xlCO6Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgdN1RXrudFrx8D-sM3qSZ1bmEcfR1cESAffR6xeAJycQCIC_4sZh0ERPEeJI4ltcjwsG2Iy35fwSSYN4gUNq_zo3J/playlist/index.m3u8
 凤凰资讯,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720001645/ei/DdCEZvfDMfSJkucP8fqBkAg/ip/172.177.25.14/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsn7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAShO4jrT1G1ismA2jszDl-bRH_yKSgPsqKd1b4LzqVMXvZzl96QalDq4rIg/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-p5qlsn7s/ms/lva/mv/u/mvi/4/pl/21/dover/11/pacing/0/keepalive/yes/mt/1719978819/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALf6zl0lU1rVU26wmUFDs05yZZlvdvRiADioBNNaBC1BAiAi99VRj7H34gkqgmBwF6c6rAXFzxj0Dbp0J65L7kj4Gw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgeHqe8efCHARHtT4RytExK7CrKy5ZECpa8l1GdWoMBiICIQDSCr0LAtHVABy36_TqHBWsm3pvXkjxN1ehnVFITTj-Ow%3D%3D/playlist/index.m3u8
+凤凰资讯, http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
+凤凰资讯, http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228527/index.m3u8
 凤凰中文,http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
+凤凰中文, http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
+凤凰中文, http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰香港,http://ott.js.chinamobile.com/TVOD/3/224/3221228530/index.m3u8
 凤凰香港,http://ott.mobaibox.com/TVOD/3/224/3221228530/index.m3u8
+劲爆体育,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43038/2300.m3u8
+四海钓鱼, http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43036/2300.m3u8
 中天新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720001658/ei/GtCEZvSeHtWAkucP1v27uAI/ip/172.177.25.14/id/HY0cGprXyBU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAed25SvdAMZq4RRXXzup8aZZ4-wu_LmULfnC58gB-K2fzM1lKyzufVI0erQ/vprv/1/playlist_type/DVR/mh/r0/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/3/pl/21/dover/11/pacing/0/keepalive/yes/mt/1719978819/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgevPD2RwGSusk4E8Ghx0_VpD5o4rGqUldEKixnyCA1aECIQDxLo3B-44HjzP_0ZNoiSS67ucEOmPzt-bFRSuIVyPNVw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAO64r7Vze-jWJcUxl3SRnIPVRoYd7cWwe80Yb0vjPbdsAiEAmfwxwxykyWKs3fImG6r3QHu8g8op2p8yZnZId2Uswak%3D/playlist/index.m3u8
 中视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720001533/ei/nc-EZuyvLtG1kucP55OQuAI/ip/172.177.25.14/id/TCnaIE_SAtM.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qlsnd6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAVgwPEu-cnQBwIwyEQNpV3sJjd4Y91TSsOJiZv84rCHJejI_WVQvRW1zL0k/vprv/1/playlist_type/DVR/mh/eb/mm/44/mn/sn-p5qlsnd6/ms/lva/mv/u/mvi/1/pl/21/dover/11/pacing/0/keepalive/yes/mt/1719978819/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgRLY1hq2wgEmol5__AyA_eMn4P7LjfthP3pI5x5fhh_oCIQDsGxptnKV9S-POiNiHVN4EYL5DInJk1EGSMyN8QcdCJQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhALeBtUmiTLYPDYQmSCq8gWB3KIVZiauYa8o0fjmEvYHtAiBZpvN7v0CXL0BJug9H1efln6eGodTE1XTBL3NOyM8eHQ%3D%3D/playlist/index.m3u8
 台视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720001586/ei/0s-EZvikG82ykucPt5G2uAc/ip/172.177.25.14/id/hTSnWlikn0w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qddn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bATkNNDmEwZ_E7DJVfXQvNRNqZcnSK_Nse7L7wYbZYCsnyFHiHqkq8lZTHgE/vprv/1/playlist_type/DVR/mh/cS/mm/44/mn/sn-p5qddn76/ms/lva/mv/u/mvi/3/pl/21/dover/11/pacing/0/keepalive/yes/mt/1719978819/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgekCBqNLgbNQrlKbB6IqsnYUtD3qX-gQ45PlgTt-HPKkCIEq3odSYgDALo61OYRRjulN3qsdFNgG4yFIP2CtprY9I/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgBh5Dq1kIHYbSZEFeCeaB-M_jeR968j5qbjFEdFI9ljkCIQC3xQJ0d1vbci-Rww8SAfbr7iFDGxyqP4c-0RS0C5FKlQ%3D%3D/playlist/index.m3u8
