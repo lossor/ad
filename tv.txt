@@ -321,6 +321,7 @@ CCTV足球,http://ott.mobaibox.com/TVOD/3/224/3221228668/index.m3u8
 浙江卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228147/index.m3u8
 浙江卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228204/index.m3u8
 浙江卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228309/index.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ott.mobaibox.com/TVOD/3/224/3221227215/index.m3u8
 浙江卫视,http://ott.mobaibox.com/TVOD/3/224/3221227491/index.m3u8
 浙江卫视,http://ott.mobaibox.com/TVOD/3/224/3221227692/index.m3u8
